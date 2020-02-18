@@ -1,4 +1,4 @@
-package com.test.viewmodel
+package com.test.learnarch
 
 import org.junit.Test
 

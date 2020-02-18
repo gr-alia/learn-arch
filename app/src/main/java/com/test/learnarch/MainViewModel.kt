@@ -1,4 +1,4 @@
-package com.test.viewmodel
+package com.test.learnarch
 
 import android.util.Log
 import androidx.lifecycle.ViewModel
